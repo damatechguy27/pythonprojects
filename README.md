@@ -1,1 +1,1 @@
-# pythonprojects
+These are notes for varies modules and test project using Tkinter
